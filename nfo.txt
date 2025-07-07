@@ -1,4 +1,4 @@
-/*                              ByteBend Solutions /// w0rmer
+/*                               /// w0rmer
   ________  ___________   __        _______   __   __  ___       __  ___________  ______    __    __   
  /"       )("     _   ") /""\      /"      \ |"  |/  \|  "|     /""\("     _   ")/" _  "\  /" |  | "\  
 (:   \___/  )__/  \\__/ /    \    |:        ||'  /    \:  |    /    \)__/  \\__/(: ( \___)(:  (__)  :) 
@@ -14,10 +14,4 @@
        moved over to a language im more at ease with, go-lang. Found the go-starlink library, found it had about 50 datapoints to
        grep over and here we are. Just a weekend project.
 ▪:: █ Absolutly most the heavy lifting was done by go-starlink https://github.com/b0ch3nski/go-starlink in the GO version */
-
-
- ▪:  ::  ::: █ Install Directions █ :::  ::  :▪
-
-
- ▪:  ::  ::: █ Help █ :::  ::  :▪
 
