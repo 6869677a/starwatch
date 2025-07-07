@@ -1,0 +1,23 @@
+/*                              ByteBend Solutions /// w0rmer
+  ________  ___________   __        _______   __   __  ___       __  ___________  ______    __    __   
+ /"       )("     _   ") /""\      /"      \ |"  |/  \|  "|     /""\("     _   ")/" _  "\  /" |  | "\  
+(:   \___/  )__/  \\__/ /    \    |:        ||'  /    \:  |    /    \)__/  \\__/(: ( \___)(:  (__)  :) 
+ \___  \       \\_ /   /' /\  \   |_____/   )|: /'        |   /' /\  \  \\_ /    \/ \      \/      \/  
+  __/  \\      |.  |  //  __'  \   //      /  \//  /\'    |  //  __'  \ |.  |    //  \ _   //  __  \\  
+ /" \   :)     \:  | /   /  \\  \ |:  __   \  /   /  \\   | /   /  \\  \\:  |   (:   _) \ (:  (  )  :) 
+(_______/       \__|(___/    \___)|__|  \___)|___/    \___|(___/    \___)\__|    \_______) \__|  |__/  
+                              ▪:  ::  ::: █ Release Notes █ :::  ::  :▪
+
+▪:: █ Initial Release - RELEASED!
+▪:: █ Lore: I had the need to get stats and alignment data from the dish while the router itself is in bypass mode. I started
+       with python but i was essentially using raw grpc calls and enumerating from there. Once i understood what was going on I
+       moved over to a language im more at ease with, go-lang. Found the go-starlink library, found it had about 50 datapoints to
+       grep over and here we are. Just a weekend project.
+▪:: █ Absolutly most the heavy lifting was done by go-starlink https://github.com/b0ch3nski/go-starlink in the GO version */
+
+
+ ▪:  ::  ::: █ Install Directions █ :::  ::  :▪
+
+
+ ▪:  ::  ::: █ Help █ :::  ::  :▪
+
